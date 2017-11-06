@@ -16,3 +16,5 @@ https://stackstorm.com/
 
 https://github.com/yetibot/yetibot-stackstorm
 
+https://github.com/huginn/huginn
+
