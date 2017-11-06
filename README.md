@@ -8,3 +8,9 @@ To be deployed on
 
 https://github.com/RasaHQ/
 
+
+
+https://github.com/BrooksCunningham/basecamp3-api-template
+
+https://github.com/basecamp/bc3-api
+
