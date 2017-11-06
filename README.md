@@ -8,9 +8,11 @@ To be deployed on
 
 https://github.com/RasaHQ/
 
-
-
 https://github.com/BrooksCunningham/basecamp3-api-template
 
 https://github.com/basecamp/bc3-api
+
+https://stackstorm.com/
+
+https://github.com/yetibot/yetibot-stackstorm
 
