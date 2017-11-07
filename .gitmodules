@@ -1,0 +1,4 @@
+[submodule "bc3-api-httpie"]
+	url = https://github.com/abhi18av/bc3-api-httpie
+[submodule "sherpa"]
+	url = https://github.com/abhi18av/sherpa
