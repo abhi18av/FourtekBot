@@ -15,10 +15,15 @@ https://github.com/BrooksCunningham/basecamp3-api-template
 
 https://github.com/basecamp/bc3-api
 
+https://github.com/basecamp/api/blob/master/sections/authentication.md
+
 https://stackstorm.com/
 
 https://github.com/yetibot/yetibot-stackstorm
 
+
+
+- Hopefully we won't need this one
 https://github.com/huginn/huginn
 
 
