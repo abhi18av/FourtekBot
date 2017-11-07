@@ -23,6 +23,9 @@ https://github.com/huginn/huginn
 
 
 ## Scope 
+
+https://launchpad.37signals.com/integrations
+
 ```sh
 @<project-name> Send me a report ?
 ```
