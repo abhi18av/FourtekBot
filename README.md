@@ -21,6 +21,7 @@ https://stackstorm.com/
 
 https://github.com/yetibot/yetibot-stackstorm
 
+http://escherize.com/hiccup.space/
 
 
 - Hopefully we won't need this one
